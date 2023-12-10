@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+div{
+    font-size: 50px;
+    color:chartreuse;
+    text-align: center;
+    border-top: solid black;
+    border-radius: 2px;
+    border-style: solid;
+    border-bottom: solid black;
+
+
+}
